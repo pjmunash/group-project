@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/project-connect/'
+  base: '/group-project/'
 }) // 👈 important for GitHub Pages
 
